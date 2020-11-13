@@ -1,5 +1,5 @@
 DROP TABLE NAME_LIST;
-CREATE TABLE NAME_LIST ( id number, state varchar(2), gender varchar(1), year varchar(4), name varchar(255), usage number); 
+CREATE TABLE NAME_LIST ( id bigint, state varchar(2), gender varchar(1), year varchar(4), name varchar(255), usage bigint); 
 DROP TABLE EMP_LIST;
 CREATE TABLE EMP_LIST (
    EMPNO  NUMBER(5),

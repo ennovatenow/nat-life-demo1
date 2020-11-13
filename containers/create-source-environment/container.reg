@@ -1,0 +1,2 @@
+100,setup.sql,psql
+200,data.csv,p-csv-loader,NAME_LIST

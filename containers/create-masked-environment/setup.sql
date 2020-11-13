@@ -5,7 +5,7 @@ CREATE TABLE MASKED_EMP_LIST (
    EMPNO  bigint,
    NAME VARCHAR(20),
    JOB  VARCHAR(10),
-   MGR  bigint
+   MGR  bigint,
    SAL  bigint,
    COMM bigint,
    DEPTNO bigint 
